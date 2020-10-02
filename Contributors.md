@@ -1,4 +1,5 @@
 # Contributors
+- [Madhuvanthi Janarthanam](https://github.com/madhuvanthi2k)
 - [Anubhav Pabby](https://github.com/AnubhavPabby)
 - [Divya Gupta](https://github/DivyaGupta4)
 - [Ivan Marrêta] (https://github.com/ivanmarreta)
@@ -38,6 +39,7 @@ Ayush Goyal
 - Satyam Dua
 mOrTaL💀
 - KhushiO BATRA
+- Amar kumar
 - Harshal Dehra
 - Tejas Dehra
 - Sahil Dhingra
@@ -5480,3 +5482,4 @@ Hirva  Shah
 - [Leonardo Bonetti] (https://github.com/LeonardoBonetti)
 - [Tim Gao](https://github.com/timegao)
 - [Vedant Satpute](https://github.com/vicinalv)
+- [Lav Senghani](https://github.com/lavlife06)
